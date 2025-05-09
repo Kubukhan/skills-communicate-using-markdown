@@ -11,6 +11,16 @@ This covers the journey from undestanding the basics which exacly is where i sta
 
 I'm using my roadmap for learning. it's does has alot of resources to learn the concepts and has a nice pratical execrise to make sure you're engaged. _lol_ this writeup is part of the training [link to page](https://learntocloud.guide)
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+
+
+
+
+
 ###### changes made
 
 i just created a brief description on this empty file. 
