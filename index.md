@@ -14,7 +14,14 @@ I'm using my roadmap for learning. it's does has alot of resources to learn the 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
+``` javascript
+var myVar = "hello world"!"
+```
 
 
 
